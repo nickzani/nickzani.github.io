@@ -1,7 +1,7 @@
 # Site settings
-title: The Professional Dad
+title: How to Dad
 default_author: Nick Zani
-description: "Professional Parenting"  # used in site head
+description: "Next level parenting"
 
 # register on google analytics and replace this token
 google_analytics:
