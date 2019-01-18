@@ -1,11 +1,22 @@
 <head>
+	
+	  <!-- Title, description, author -->
+  {%- capture _page_title -%}
+    {%- if page.title -%}{{- page.title | append: ' | ' -}}{%- endif -%}
+    {{- site.title | default: "Untitled Website" -}}
+    {%- if site.subtitle -%}{{- site.subtitle | prepend: ' - ' -}}{%- endif -%}
+  {%- endcapture -%}
+  {%- assign _page_title = _page_title | escape -%}
+  {%- assign _page_description = page.description | default: site.description | default: _page_title | escape -%}
 
+  <title>{{- _page_title -}}</title>
+  <meta name="description" content="{{- _page_description -}}" />
+  <meta name="author" content="{{- site.author -}}" />
+	
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ site.description }}">
-
-    <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html',''}}">
 
