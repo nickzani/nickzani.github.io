@@ -11,14 +11,27 @@ description: "A fun activity for all ages"
 
 Let's be honest, thinking of activities to do with kids is hard. There are only so many times you can go to Pets at Home and try to subtly stroke the rabbits without being thrown out. This is a great activity for rainy days, and combines eating with science. Double win.
 
-### title 1
-some text
+## Ingredients
+For this recipe (experiment?) you only need three ingredients
 
-* Bullet 1
-* Bullet 2
-*Bullet 3 with no space
+* Granulated sugar
+* Baking soda
+* Food grade citric acid (available on Amazon)
 
 
-## title 2
-some text
+## Method
+1. Mix 1 tsp of the baking soda with 1 tsp of citric acid and a 2 tbs of sugar.
+2. Eat it
+
+
+## Mix it Up
+The beauty of this recipe is that it is so simple, so it is easy to play around with the ratios and see how they affect the favlour and fizziness. You can also add different ingredients to the basic recipe to give different flavours. Try adding cocoa powder or jelly crystals.
+
+
+## The Science
+The basic reaction occuring is:
+
+```
+Acid + Carbonate --› Carbon Dioxide + Water + Salt
+```
 
