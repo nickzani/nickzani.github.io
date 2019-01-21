@@ -5,7 +5,7 @@ subtitle:   "A great activity that can be tailored to kids of all ages"
 date:       2018-01-13 17:00:00
 author:     Nick Zani"
 header-img: "img/posts/candy.jpg"
-tags: [ Activity ]
+tags: [ Activity, Science]
 description: "A fun activity for all ages"
 ---
 
