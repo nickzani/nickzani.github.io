@@ -3,7 +3,7 @@ layout:     post
 title:      "Ewan the Sheep"
 subtitle:   "The second worst signing in history"
 date:       2018-01-08 17:00:00
-author:     Nick Zani"
+author:     Nick Zani
 header-img: "img/posts/sheep.jpg"
 tags: [ Sleep, Babies ]
 description: "Testing out Ewan the Sheep"
