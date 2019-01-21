@@ -9,9 +9,16 @@ tags: [ Activity, Science]
 description: "A fun activity for all ages"
 ---
 
-Ewan the Sheep is a lot like <a href = "https://en.wikipedia.org/wiki/Ali_Dia"> Ali Dia</a>. Voted the worst ever signing by The Times, Ali Dia played one game for Southampton, before everyone realised he was totally useless, and he was released 14 days into his contract.
+Let's be honest, thinking of activities to do with kids is hard. There are only so many times you can go to Pets at Home and try to subtly stroke the rabbits without being thrown out. This is a great activity for rainy days, and combines eating with science. Double win.
 
-One night, likely at 1am with a crying baby, you will turn to Ewan the Sheep with the vague hope of getting a good night's sleep, and much like Graeme Souness, you will be disappointed and left with so many questions. Why does Ewan switch off after 20 mins? Why is the sound so quiet? Why is the battery inacessable? What does everyone else do with Ewan that makes him work that I am not doing?
+### title 1
+some text
 
-Dont get me wrong, the concept is good. White noise will help you baby or toddler sleep, especially if you get them used to it from an early age. We used this white noise generator, which comes with a range of volumes, sounds and auto timers. Great for when you are having people over and it might get noisy. Go one step further and get yourself a blackout blind too. It might even help you sleep better!
+* Bullet 1
+* Bullet 2
+*Bullet 3 with no space
+
+
+## title 2
+some text
 
