@@ -9,18 +9,19 @@ tags: [ Activity, Science]
 description: "A fun activity for all ages"
 ---
 
-Let's be honest, thinking of activities to do with kids is hard. There are only so many times you can go to Pets at Home and try to subtly stroke the rabbits without being thrown out. This is a great activity for rainy days, and combines eating with science. Double win.
+Let's be honest, thinking of activities to do with kids is hard. There are only so many times you can go to Pets at Home and try to subtly stroke the rabbits without being thrown out. Making sherbet is a great activity for rainy days, and combines eating with science. Double win.
 
 ## Ingredients
-For this recipe (experiment?) you only need three ingredients
+For this recipe (experiment?) you only need three ingredients:
 
 * Granulated sugar
-* Baking soda
-* Food grade citric acid (available on Amazon)
+* Baking powder
+* Food grade citric acid (easily available on Amazon, and can be used for descaling the kettle if you have any leftover)
 
 
 ## Method
-1. Mix 1 tsp of the baking soda with 1 tsp of citric acid and a 2 tbs of sugar.
+Luckily the method is as simple as the ingredients:
+1. Mix 1 tsp of the baking powder with 1 tsp of citric acid and a 2 tbs of sugar.
 2. Eat it
 
 
@@ -35,3 +36,5 @@ The basic reaction occuring is:
 Acid + Carbonate --› Carbon Dioxide + Water + Salt
 ```
 
+The carbonate here is the baking powder (sodium bicarbonate).
+Reactions between citric acid and sodium bicarbonate would usually take a very long time because both chemicals are in the form of a powder. When they are dissolved in water, however, the reaction goes significantly quicker. That is why the fizzing only starts (bubbles of carbon dioxide are formed) when you wet the chemicals with your saliva.
