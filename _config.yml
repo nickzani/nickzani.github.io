@@ -4,7 +4,7 @@ default_author: Nick Zani
 description: "Next level parenting"
 
 # register on google analytics and replace this token
-google_analytics:
+google_analytics: UA-56644533-6
 # disque comments are broken if you send http:// along with url, this url is same as the one given on disqus
 # Deleting the value would remove it from footer.
 disqus_url:
