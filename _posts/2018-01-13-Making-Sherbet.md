@@ -33,8 +33,8 @@ The beauty of this recipe is that it is so simple, so it is easy to play around 
 The basic reaction occuring is:
 
 ```
-Acid + Carbonate --› Carbon Dioxide + Water + Salt
+Acid + Carbonate =› Carbon Dioxide + Water + Salt
 ```
 
 The carbonate here is the baking powder (sodium bicarbonate).
-Reactions between citric acid and sodium bicarbonate would usually take a very long time because both chemicals are in the form of a powder. When they are dissolved in water, however, the reaction goes significantly quicker. That is why the fizzing only starts (bubbles of carbon dioxide are formed) when you wet the chemicals with your saliva.
+When the baking powder and citric acid are in a powdered form, no reaction can occur (or it occurs too slowly for us to observe). However, when they are dissolved in water, the reaction starts. That is why the fizzing only starts (bubbles of carbon dioxide are formed) when you wet the chemicals with your saliva.
