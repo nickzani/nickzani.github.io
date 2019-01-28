@@ -35,9 +35,13 @@ A few days after you bring your baby home, you may hear references to 'top and t
 I never worked out exactly why this process needed it's own name, and I think calling it 'clean your baby without touching the manky umbilical cord' is a better name. Or even better still 'wipe your baby'. Once the umbilical cord falls off, proper bath time can begin.
 
 ## What Makes no Difference: Calming Bubble Bath
+Buy them because they smell nice, or work well with your babies skin, but they will make no difference to how they sleep. I find the Child's Farm ones are nice.
 
 ## Invest in a Baby Seat
 Initially bath time went very badly for me, until I realised my baby hated (and still does!) lying down in the bath looking up. One of the best ever purchases I made was a bath seat that they could sit in.
 
+## Buy a Bigger Seat When They are a Toddler
+Initially bath time went very badly for me, until I realised my baby hated (and still does!) lying down in the bath looking up. One of the best ever purchases I made was a bath seat that they could sit in.
 
-
+## Buy Some Bath Toys
+Initially bath time went very badly for me, until I realised my baby hated (and still does!) lying down in the bath looking up. One of the best ever purchases I made was a bath seat that they could sit in.
