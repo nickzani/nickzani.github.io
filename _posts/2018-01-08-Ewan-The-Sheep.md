@@ -22,6 +22,7 @@ Dont get me wrong, the concept is good. White noise will help you baby or toddle
 
 ## Experiment to Find Out What Works
 There are no magic bullets when it comes to improving a baby's sleep, so you will need to do some trial and error to find what might help:
-* Is there too much light in the room? Try a <a href = "https://www.amazon.co.uk/gp/product/B071YVLK63/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B071YVLK63&linkCode=as2&tag=howtodad-21&linkId=4e7f1edaae4199c8c40af8ceef3bb3b8">black out blind</a>.
+* Is there too much light in the room? Try a <a href = "https://www.amazon.co.uk/gp/product/B071YVLK63/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B071YVLK63&linkCode=as2&tag=howtodad-21&linkId=938099991c5c7e48074f9e1257d13980">black out blind</a>.
 * Is there not enough light? Try a small light activated <a href = "https://www.amazon.co.uk/gp/product/B01HOMLUGY/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01HOMLUGY&linkCode=as2&tag=howtodad-21&linkId=1b0dd272fe5e848b09a83f170ef4404d">night light</a> which will only come on when it is dark.
 * A <a href = "https://www.amazon.co.uk/gp/product/B00N9YFKQ8/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00N9YFKQ8&linkCode=as2&tag=howtodad-21&linkId=3acb8fa39c29af0acebe9b8975a25d8d">sleep spray</a> can be useful when staying in unfamiliar places. Spray it on regularly when you are at home, and then use it when in a hotel to create the feeling of familiarity
+
