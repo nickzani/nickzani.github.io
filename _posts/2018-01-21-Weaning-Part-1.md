@@ -9,7 +9,11 @@ tags: [ Food, Babies ]
 description: "Tips for weaning your baby"
 ---
 
-Intro
+Weaning can be a stressful experience. Everyone knows that babies **love** milk. Moving from this to new flavours is a big change, without even taking into account the new textures and routine. There is one key point you need to keep in mind at all times:
+
+* Your baby is going to hate everything the first time they try it
+
+Seriously, everything. Embrace this, and everything is fine. The common consensus is that a baby needs to try something three times before they become used to the taste and texture.  
 
 ## Make it Yourself
 
@@ -19,10 +23,10 @@ Better to get yourself organised and cook everything yourself. Since for the fir
 
 ## Embrace the Freezer
 
-Once you have made it, put some aside in [food pots]
-(https://www.amazon.co.uk/gp/product/B01AAO4CKO/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01AAO4CKO&linkCode=as2&tag=howtodad-21&linkId=edc4774c2ff8b834d76756373c4684db) and put the min the freezer. Initially you will only be getting through a few teaspoons of food at a time, so a few pieces of veg will go a long way.
+Once you have made it, put some aside in [food pots](https://www.amazon.co.uk/gp/product/B01AAO4CKO/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01AAO4CKO&linkCode=as2&tag=howtodad-21&linkId=edc4774c2ff8b834d76756373c4684db) and put the min the freezer. Initially you will only be getting through a few teaspoons of food at a time, so a few pieces of veg will go a long way. Take the pots out of the freezer the night before you need them so they are ready, or put them in the microwave to defrost.
 
 ## Eat Together and Make it a Routine
 
-[Bumbo](https://www.amazon.co.uk/gp/product/B0006J30R0/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0006J30R0&linkCode=as2&tag=howtodad-21&linkId=439f71ffd207bbddaf94e496e2b31508)
+As with most things baby related, if you can build it into your routine, it becomes simpler. Whilst you are cooking for yourself, put some veg on to steam and then all sit down together. A [bumbo](https://www.amazon.co.uk/gp/product/B0006J30R0/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0006J30R0&linkCode=as2&tag=howtodad-21&linkId=439f71ffd207bbddaf94e496e2b31508) can sit right on the table with you. Even make it a habit to wash your baby's hands before you start. Make sure you use a [plastic spoon] (https://www.amazon.co.uk/gp/product/B000LSL5ZK/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B000LSL5ZK&linkCode=as2&tag=howtodad-21&linkId=d1a39d44a497640917e9590a79447701) so you don't damage your baby's teeth.
+
 
