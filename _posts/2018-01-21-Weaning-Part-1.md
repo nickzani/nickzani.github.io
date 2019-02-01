@@ -13,7 +13,7 @@ Weaning can be a stressful experience. Everyone knows that babies **love** milk.
 
 * Your baby is going to hate everything the first time they try it
 
-Seriously, everything. Embrace this, and everything is fine. The common consensus is that a baby needs to try something three times before they become used to the taste and texture.  
+Seriously, everything. Anf not even the first time; the common consensus is that a baby needs to try something three times before they become used to the taste and texture. Embrace this and the whole process becomes more enjoyable.   
 
 ## Make it Yourself
 
