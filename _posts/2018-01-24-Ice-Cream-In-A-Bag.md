@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Ice Cream in a Bag"
-subtitle:   "Making delicious ice cream in minutes"
+subtitle:   "Another science/food cross over"
 date:       2018-01-24 17:00:00
 author:     Nick Zani
 header-img: "img/posts/icecream.jpg"
@@ -9,36 +9,44 @@ tags: [ Activity, Science]
 description: "Making ice cream in a bag"
 ---
 
-[Another blog]({% post_url 2018-01-13-Making-Sherbet %})
+This activity is empowering. Similar to the [sherbet recipe]({% post_url 2018-01-13-Making-Sherbet %}) it will show your kids that they are capable of producing things that up until now seemed like a shop-bought-mystery. And the best part is that a five year old can easily make ice cream that tastes better than anything that can be bought in Waitrose.
 
-* Your baby is going to hate everything the first time they try it
+## Ingredients
 
-Seriously, everything. Anf not even the first time; the common consensus is that a baby needs to try something three times before they become used to the taste and texture. Embrace this and the whole process becomes more enjoyable.   
+For this recipe (experiment?) you only need three ingredients:
 
-## Make it Yourself
+* Half a cup of milk (cream tastes even better!)
+* A few teaspoons of sugar
+* [Ziploc bag](https://www.amazon.co.uk/gp/product/B007WF153C/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B007WF153C&linkCode=as2&tag=howtodad-21&linkId=e79455102fe9e410c0c2fd54cbbd3493) (Cheaper options are available but make sure the bag is fairly robust. You don't want it to be punctured when submerged in ice)
+* Ice. You will need a reasonable amount.
+* Table salt. The easier to dissolve the better, so best to go for a fine powder rather than sea salt
+* Any flavourings that you want to add. Vanilla extract, cocoa powder and fresh fruit will all work
+* A washing up bowl or plastic container that the ice can go in, which can also fit the ziploc bag in
 
-There are loads of different options when it comes to baby weaning (often called stage 1 on baby food pouches). The most common are [Ellas Kitchen](https://www.amazon.co.uk/gp/product/B0716KYKLC/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0716KYKLC&linkCode=as2&tag=howtodad-21&linkId=796fe6ec7e71da6162e781f492d20538) and these are great for being out and about as your baby can eat straight from the pouch. However these are expensive; sometimes up to £1 a pouch.
+## Method
 
-Better to get yourself organised and cook everything yourself. Since for the first few months your baby is going to be on pureed fruit and vegetables it is super quick to make, and much cheaper. Batch steam vegetables either in a [microwave](https://www.amazon.co.uk/gp/product/B005D6XYGS/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B005D6XYGS&linkCode=as2&tag=howtodad-21&linkId=e8bdccde5483ec4182491269513d3ce0) or on the [stove](https://www.amazon.co.uk/gp/product/B01ICU1OZ4/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01ICU1OZ4&linkCode=as2&tag=howtodad-21&linkId=b8c0707f777663cc5b8a4f63acbc3ef5). And then mash. A [Nutribullet](https://www.amazon.co.uk/gp/product/B01N27W15O/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01N27W15O&linkCode=as2&tag=howtodad-21&linkId=b1546d1d1491e94197e241efe7b59b96) is ideal for this. If the puree is too thick then loosen with some milk (formula or expressed).
+The great part of this activity is that it needs very little adult supervision. Even if it goes wildly wrong, the end results are still delicious.
 
-There are loads of different things to try:
+1. Mix the milk, sugar and any flavourings in the ziploc bag
+2. Pour the ice into the plastic container and add a few inches of water to the bottom
+3. Pour the salt over the ice. You will need quite a lot.
+4. Quickly stir the ice, salt and water mixture, mixing it all together
+5. Submerge the ziploc bag in the ice mixture
+6. Leave for about 5 minutes. Pull the bag out and check the consistency. It should be similar to ice cream.
 
-* Pureed broccoli or cauliflower
-* Mashed potato or sweet potato
-* Avocado
-* Boiled peas
-* Any mashed raw fruit
+## What is going on?
 
-## Texture is as Important as Flavour
+Adding the salt to the ice depresses the freezing point. This means the ice (which is at zero degrees) is above the freezing point and starts to melt. This is sometimes referred to as the latent heat of fusion, and **requires energy**. This energy is taken from the ziploc bag, which is well above the freezing temperature.
 
-Your baby has likely been on a liquid only diet for 6 months, and this is a big change. Make sure you start off with very liquidy purees for the highest chance of them liking it, and gradually make them thicker as you progress.
+This is the same reason that [salt is put onto roads before a frost](https://science.howstuffworks.com/nature/climate-weather/atmospheric/road-salt.htm). 
 
-## Embrace the Freezer
+Don't believe it? Get a [simple thermometer](https://www.amazon.co.uk/gp/product/B01ND4CARX/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01ND4CARX&linkCode=as2&tag=howtodad-21&linkId=4f3c6b8b16070c7c0d4473edb2912fd2) and try it out. Submerge in ice, then add water and salt and see how the temperature drops.
 
-Once you have made it, put some aside in [food pots](https://www.amazon.co.uk/gp/product/B01AAO4CKO/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01AAO4CKO&linkCode=as2&tag=howtodad-21&linkId=edc4774c2ff8b834d76756373c4684db) and put the min the freezer. Initially you will only be getting through a few teaspoons of food at a time, so a few pieces of veg will go a long way. Take the pots out of the freezer the night before you need them so they are ready, or put them in the microwave to defrost.
+## Tasting
 
-## Eat Together and Make it a Routine
+After the five minutes has elapsed, pull the bag out and check the consistency. If it looks okay, open the bag and taste. **Spoiler alert:** it will be delicious.
 
-As with most things baby related, if you can build it into your routine, it becomes simpler. Whilst you are cooking for yourself, put some veg on to steam and then all sit down together. A [bumbo](https://www.amazon.co.uk/gp/product/B0006J30R0/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0006J30R0&linkCode=as2&tag=howtodad-21&linkId=439f71ffd207bbddaf94e496e2b31508) can sit right on the table with you. Even make it a habit to wash your baby's hands before you start. Make sure you use a [plastic spoon](https://www.amazon.co.uk/gp/product/B000LSL5ZK/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B000LSL5ZK&linkCode=as2&tag=howtodad-21&linkId=d1a39d44a497640917e9590a79447701) so you don't damage your baby's teeth.
+## The Secret
 
+Ice cream always tastes best when the ice crystals within it are small. Because of this keep the ziploc bag moving around whilst it freezes. It stops the ice crystals growing too large.
 
