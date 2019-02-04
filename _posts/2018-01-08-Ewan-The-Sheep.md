@@ -18,7 +18,7 @@ One night, likely at 1am with a crying baby, you will turn to Ewan the Sheep wit
 * What does everyone else do with Ewan that makes him work that I am not doing?
 
 ## Answer: You Aren't Doing Anything Wrong. Ewan is Useless.
-Dont get me wrong, the concept is good. White noise will help you baby or toddler sleep, especially if you get them used to it from an early age. We used this [white noise generator](https://www.amazon.co.uk/gp/product/B01NBSUCZ0/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01NBSUCZ0&linkCode=as2&tag=howtodad-21&linkId=0fd859a83ce8897e1a85d483d4501319), which comes with a range of volumes, sounds and auto timers. Great for when you are having people over and it might get noisy. 
+Dont get me wrong, the concept is good. White noise will help you baby or toddler sleep, especially if you get them used to it from an early age. We used this [white noise generator](https://www.amazon.co.uk/gp/product/B01NBSUCZ0/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01NBSUCZ0&linkCode=as2&tag=howtodad-21&linkId=0fd859a83ce8897e1a85d483d4501319), which comes with a range of volumes, sounds and auto timers. Great for when you are having people over and it might get noisy. The auto time is particularly useful for when you are sleeping in the same room and don't want the noise playing all through the night.
 
 ## Experiment to Find Out What Works
 There are no magic bullets when it comes to improving a baby's sleep, so you will need to do some trial and error to find what might help:

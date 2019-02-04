@@ -9,7 +9,7 @@ tags: [ Activity, Science]
 description: "A fun activity for all ages"
 ---
 
-Let's be honest, thinking of activities to do with kids is hard. There are only so many times you can go to Pets at Home and try to subtly stroke the rabbits without being thrown out. Making sherbet is a great activity for rainy days, and combines eating with science. Double win.
+Let's be honest, thinking of activities to do with kids is hard. There are only so many times you can go to Pets at Home and try to subtly stroke the rabbits without being thrown out. Making sherbet is a great activity for rainy days, and combines eating with science. Double win. You can go into the science behind what is happening as much or as little as you like, and some areas to look into are listed at the bottom.
 
 ## Ingredients
 For this recipe (experiment?) you only need three ingredients:
@@ -37,4 +37,9 @@ Acid + Carbonate =› Carbon Dioxide + Water + Salt
 ```
 
 The carbonate here is the baking powder (sodium bicarbonate).
-When the baking powder and citric acid are in a powdered form, no reaction can occur (or it occurs too slowly for us to observe). However, when they are dissolved in water, the reaction starts. That is why the fizzing only starts (bubbles of carbon dioxide are formed) when you wet the chemicals with your saliva.
+When the baking powder and citric acid are in a powdered form, no reaction can occur (or it occurs too slowly for us to observe). However, when they are dissolved in water, the reaction starts. That is why the fizzing only starts (bubbles of carbon dioxide are formed) when you wet the chemicals with your saliva. You can dive into this as much or as little as you like, but some avenues of discussion could include:
+
+* (GCSE) What else could citric acid be used for? Why is it good as descaling kettles?
+* (GCSE / A level) Why don't the ingredients react in the solid phase? [This page](https://employees.csbsju.edu/cschaller/Reactivity/kinetics/rkphase.htm) has some interesting points on reaction dynamics
+* (A level) What is the structure of citric acid? Is it chiral? Tartaric acid can be used instead; how is this structure different?
+* (A level) Balance the equation. What would be the ideal weights of each to make the fizziest sherbet?

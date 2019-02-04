@@ -19,7 +19,19 @@ Seriously, everything. Anf not even the first time; the common consensus is that
 
 There are loads of different options when it comes to baby weaning (often called stage 1 on baby food pouches). The most common are [Ellas Kitchen](https://www.amazon.co.uk/gp/product/B0716KYKLC/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0716KYKLC&linkCode=as2&tag=howtodad-21&linkId=796fe6ec7e71da6162e781f492d20538) and these are great for being out and about as your baby can eat straight from the pouch. However these are expensive; sometimes up to £1 a pouch.
 
-Better to get yourself organised and cook everything yourself. Since for the first few months your baby is going to be on pureed fruit and vegetables it is super quick to make, and much cheaper. Batch steam vegetables either in a [microwave](https://www.amazon.co.uk/gp/product/B005D6XYGS/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B005D6XYGS&linkCode=as2&tag=howtodad-21&linkId=e8bdccde5483ec4182491269513d3ce0) or on the [stove](https://www.amazon.co.uk/gp/product/B01ICU1OZ4/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01ICU1OZ4&linkCode=as2&tag=howtodad-21&linkId=b8c0707f777663cc5b8a4f63acbc3ef5). And then mash. A [Nutribullet](https://www.amazon.co.uk/gp/product/B01N27W15O/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01N27W15O&linkCode=as2&tag=howtodad-21&linkId=b1546d1d1491e94197e241efe7b59b96) is ideal for this.
+Better to get yourself organised and cook everything yourself. Since for the first few months your baby is going to be on pureed fruit and vegetables it is super quick to make, and much cheaper. Batch steam vegetables either in a [microwave](https://www.amazon.co.uk/gp/product/B005D6XYGS/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B005D6XYGS&linkCode=as2&tag=howtodad-21&linkId=e8bdccde5483ec4182491269513d3ce0) or on the [stove](https://www.amazon.co.uk/gp/product/B01ICU1OZ4/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01ICU1OZ4&linkCode=as2&tag=howtodad-21&linkId=b8c0707f777663cc5b8a4f63acbc3ef5). And then mash. A [Nutribullet](https://www.amazon.co.uk/gp/product/B01N27W15O/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B01N27W15O&linkCode=as2&tag=howtodad-21&linkId=b1546d1d1491e94197e241efe7b59b96) is ideal for this. If the puree is too thick then loosen with some milk (formula or expressed).
+
+There are loads of different things to try:
+
+* Pureed broccoli or cauliflower
+* Mashed potato or sweet potato
+* Avocado
+* Boiled peas
+* Any mashed raw fruit
+
+## Texture is as Important as Flavour
+
+Your baby has likely been on a liquid only diet for 6 months, and this is a big change. Make sure you start off with very liquidy purees for the highest chance of them liking it, and gradually make them thicker as you progress.
 
 ## Embrace the Freezer
 

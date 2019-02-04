@@ -41,7 +41,7 @@ Buy them because they smell nice, or work well with your babies skin, but I foun
 Initially bath time went very badly for me, until I realised my baby hated (and still does!) lying down in the bath looking up. One of the best ever purchases I made was a [bath seat](https://www.amazon.co.uk/gp/product/B00AWMV9CY/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00AWMV9CY&linkCode=as2&tag=howtodad-21&linkId=73a39d500814ec27f7038d5b4e4b9ea5) that they could sit in.
 
 ## Buy a Bigger Seat When They are a Toddler
-After a while they will grow out of the baby seat, but be in an awkward period where they can't properly sit up on their own. A [bigger bath](https://www.amazon.co.uk/gp/product/B00CMR3H04/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00CMR3H04&linkCode=as2&tag=howtodad-21&linkId=3033657c0fd0164535c026bb0e93aab8) seat like this one really helped for our toddler. It is able to swivel round as well which adds to the fun.
+After a while they will grow out of the baby seat, but be in an awkward period where they can't properly sit up on their own. A [bigger bath seat](https://www.amazon.co.uk/gp/product/B00CMR3H04/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00CMR3H04&linkCode=as2&tag=howtodad-21&linkId=3033657c0fd0164535c026bb0e93aab8) like this one really helped for our toddler. It is able to swivel round as well which adds to the fun. Eventually they will grow out of this and be able to sit unaided in the bath.
 
 ## Buy Some Bath Toys
 
