@@ -9,7 +9,7 @@ tags: [ Activity, Science]
 description: "Making ice cream in a bag"
 ---
 
-Weaning can be a stressful experience. Everyone knows that babies **love** milk. Moving from this to new flavours is a big change, without even taking into account the new textures and routine. There is one key point you need to keep in mind at all times:
+[Another blog]({% post_url 2018-01-13-Making-Sherbet %})
 
 * Your baby is going to hate everything the first time they try it
 
