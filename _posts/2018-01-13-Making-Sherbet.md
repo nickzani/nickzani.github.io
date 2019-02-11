@@ -6,7 +6,7 @@ date:       2018-01-13 17:00:00
 author:     Nick Zani"
 header-img: "img/posts/candy.jpg"
 tags: [ Activity, Science]
-description: "A fun activity for all ages"
+description: "Dad activities: making shertbet. A fun activity for all ages that can be tailored to all ages."
 ---
 
 Let's be honest, thinking of activities to do with kids is hard. There are only so many times you can go to Pets at Home and try to subtly stroke the rabbits without being thrown out. Making sherbet is a great activity for rainy days, and combines eating with science. Double win. You can go into the science behind what is happening as much or as little as you like, and some areas to look into are listed at the bottom.

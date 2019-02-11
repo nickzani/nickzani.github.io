@@ -6,7 +6,7 @@ date:       2018-01-08 17:00:00
 author:     Nick Zani
 header-img: "img/posts/sheep.jpg"
 tags: [ Sleep, Babies ]
-description: "Helping your baby sleep"
+description: "Dad sleep tips: Helping your baby sleep. A review of Ewan the sheep and other useful products to help your baby or toddler sleep."
 ---
 
 [Ewan the Sheep](https://www.amazon.co.uk/gp/product/B011CCMOTE/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B011CCMOTE&linkCode=as2&tag=howtodad-21&linkId=4ba70781a23ebf15607b1b2e1ec199cf) is a lot like [Ali Dia](https://en.wikipedia.org/wiki/Ali_Dia). Voted the worst ever signing by The Times, Ali Dia played one game for Southampton, before everyone realised he was totally useless, and he was released 14 days into his contract.

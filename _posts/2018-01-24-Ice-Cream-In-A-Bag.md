@@ -6,7 +6,7 @@ date:       2018-01-24 17:00:00
 author:     Nick Zani
 header-img: "img/posts/icecream.jpg"
 tags: [ Activity, Science]
-description: "Making ice cream in a bag"
+description: "Dad activities: Making ice cream in a bag. A great science and food cross over activity to keep your kids entertained"
 ---
 
 This activity is empowering. Similar to the [sherbet recipe]({% post_url 2018-01-13-Making-Sherbet %}) it will show your kids that they are capable of producing things that up until now seemed like a shop-bought-mystery. And the best part is that a five year old can easily make ice cream that tastes better than anything that can be bought in Waitrose.
