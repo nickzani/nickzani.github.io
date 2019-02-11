@@ -4,9 +4,9 @@ title:      "Weaning Part Two"
 subtitle:   "Moving on from fruit and vegetable purees"
 date:       2018-01-29 17:00:00
 author:     Nick Zani
-header-img: "img/posts/meat.jpg"
+header-img: "img/posts/meat2.jpg"
 tags: [ Food, Babies ]
-description: "Tips and recipes for weaning your baby"
+description: "Dad Weaning Tips and recipes for your baby, moving on from fruit and vegetable purees. Quick baby meals using a slow cooker"
 ---
 
 By now you are probably a few months into weaning, and are a dab hand at blending various fruits and vegetables together. The next stage is the introduction of meat, and some more textured meals. In some ways this can seem more daunting, but it is actually a great step on the road to them being able to eat what you eat.
