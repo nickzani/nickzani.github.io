@@ -6,7 +6,7 @@ date:       2018-01-16 17:00:00
 author:     Nick Zani
 header-img: "img/posts/babybath.jpg"
 tags: [ Bathtime, Babies ]
-description: "Tips for bathing your baby"
+description: "How to Dad: Tips for bathing your baby. How and When to Bath your Baby"
 ---
 
 Baby bath time is a traditional dad activity. You will come back from the hospital, and after a few days of changing nappies be excited to be finally able to take on a real piece of baby responsibility. This is probably how you imagine it will go:
