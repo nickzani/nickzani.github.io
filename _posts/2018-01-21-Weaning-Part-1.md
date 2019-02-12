@@ -6,7 +6,7 @@ date:       2018-01-21 17:00:00
 author:     Nick Zani
 header-img: "img/posts/meal.jpg"
 tags: [ Food, Babies ]
-description: "Tips for weaning your baby"
+description: "Dad Tips for weaning your baby. Stage 1 Weaning Recipes."
 ---
 
 Weaning can be a stressful experience. Everyone knows that babies **love** milk. Moving from this to new flavours is a big change, without even taking into account the new textures and routine. There is one key point you need to keep in mind at all times:

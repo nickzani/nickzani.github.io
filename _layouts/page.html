@@ -19,6 +19,9 @@ layout: default
                             {{ page.subtitle }}
                         {% endif %}
                     </span>
+					    {% if page.show_btn %}
+							<a href="{{ page.btn_url }}" class="btn">show_btn</a>
+						{% endif %}
                 </div>
             </div>
         </div>
