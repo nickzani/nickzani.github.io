@@ -54,6 +54,7 @@ Cons:
 * The refills are expensive
 * Environmentally it is not great. Nappies are already terrible for the environment, so wrapping them in plastic before putting them in the bin seems to make this even worse
 
+
 ## Take a Variety of Sizes with you For the Birth
 
 All babies are different shapes and sizes. When we had our first baby she weighed enough to fit into the size 1 nappies, but they slide off her because her hips were too skinny. This meant a very quick trip to the 24 hour supermarket at 4am to pick up some newborn baby nappies! Take a variety of sizes with you just to be on the safe side.
