@@ -34,6 +34,8 @@ The great part of this activity is that it needs very little adult supervision. 
 
 Enzymes are biological molecules designed to do a specific job. Pectinase breaks down pectin, which is what gives plant's their structure, into smaller molecules, allowing more juice and flavour to be extracted from the pulped fruit. For an in depth read, there is a lot more information [here](https://juniperpublishers.com/nfsij/pdf/NFSIJ.MS.ID.555673.pdf). 
 
+As well as the science theory, there is also the concept of doing a proper science experiment using a control; a fundamental part of the scientific method.
+
 ## Taking it Further
 
 There is obviously a lot going on here, and the science maybe too much for younger children, however this can be a great introduction to some fundamental scientific processes
