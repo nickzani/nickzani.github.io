@@ -16,7 +16,7 @@ For this recipe (experiment?) you only need three ingredients:
 
 * Granulated sugar
 * Baking powder
-* Food grade [citric acid](https://www.amazon.co.uk/gp/product/B005L4QGGM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B005L4QGGM&linkCode=as2&tag=howtodad-21&linkId=9107bf8d132771ec3093fd0c721d661a) (Dont be put off by the name; this is easily available on Amazon, and can be used for descaling the kettle if you have any leftover)
+* Food grade [citric acid](https://www.amazon.co.uk/gp/product/B005L4QGGM/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B005L4QGGM&linkCode=as2&tag=howtodad-21&linkId=9107bf8d132771ec3093fd0c721d661a) (Don't be put off by the name; this is easily available on Amazon, and can be used for descaling the kettle if you have any leftover)
 
 
 ## Method
@@ -26,11 +26,11 @@ Luckily the method is as simple as the ingredients:
 
 
 ## Mix it Up
-The beauty of this recipe is that it is so simple, so it is easy to play around with the ratios and see how they affect the favlour and fizziness. You can also add different ingredients to the basic recipe to give different flavours. Try adding cocoa powder or [jelly crystals](https://www.amazon.co.uk/gp/product/B00BHFE5NA/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00BHFE5NA&linkCode=as2&tag=howtodad-21&linkId=a2ebc76addcf647d22b6a99e1f4e6691).
+The beauty of this recipe is that it is so simple, so it is easy to play around with the ratios and see how they affect the flavour and fizziness. You can also add different ingredients to the basic recipe to give different flavours. Try adding cocoa powder or [jelly crystals](https://www.amazon.co.uk/gp/product/B00BHFE5NA/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00BHFE5NA&linkCode=as2&tag=howtodad-21&linkId=a2ebc76addcf647d22b6a99e1f4e6691).
 
 
 ## The Science
-The basic reaction occuring is:
+The basic reaction occurring is:
 
 ```
 Acid + Carbonate =› Carbon Dioxide + Water + Salt

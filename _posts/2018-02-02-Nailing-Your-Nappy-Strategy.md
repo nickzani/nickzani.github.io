@@ -40,6 +40,20 @@ A [mobile changing mat](https://www.amazon.co.uk/gp/product/B0793SPCBX/ref=as_li
 
 Make it a habit to check the changing bag is fully stocked before you leave the house. There is nothing worse than getting somewhere and realising you have run out of nappies!
 
+## The Nappy Bin
+
+The [nappy bin](https://www.amazon.co.uk/gp/product/B002L213KQ/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=howtodad-21&creative=6738&linkCode=as2&creativeASIN=B002L213KQ&linkId=162952416c645ca0a40801adfcbe5d75) is a contentious issue in our household. Let me break out the pros and cons:
+
+Pros:
+
+* It is useful to have somewhere straight to hand to put nappies, especially if you change nappies in the nursery
+* It means you don't have to continually run outside to take nappies out
+
+Cons:
+
+* The refills are expensive
+* Environmentally it is not great. Nappies are already terrible for the environment, so wrapping them in plastic before putting them in the bin seems to make this even worse
+
 ## Take a Variety of Sizes with you For the Birth
 
 All babies are different shapes and sizes. When we had our first baby she weighed enough to fit into the size 1 nappies, but they slide off her because her hips were too skinny. This meant a very quick trip to the 24 hour supermarket at 4am to pick up some newborn baby nappies! Take a variety of sizes with you just to be on the safe side.
