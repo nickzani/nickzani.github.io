@@ -30,7 +30,7 @@ So you've got yourself a nice [changing bag](https://www.amazon.co.uk/gp/product
 
 * [**Mobile changing mat**](https://www.amazon.co.uk/gp/product/B0793SPCBX/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0793SPCBX&linkCode=as2&tag=howtodad-21&linkId=0cd5f3a49b97bb86e73d497251550de8). Changing tables in supermarkets and cafes are often made of hard plastic, so putting this down first will make it much more comfortable.
 
-* **Alcohol hand gel or **[**disinfectant wipes**](https://www.amazon.co.uk/gp/product/B006H4R4D4/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B006H4R4D4&linkCode=as2&tag=howtodad-21&linkId=38252d87dee5e2751ed9dcdb3ccdad6e). Useful for wiping your own hands, or other surfaces that might be dirty before or after use.
+* **Alcohol hand gel** or [**disinfectant wipes**](https://www.amazon.co.uk/gp/product/B006H4R4D4/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B006H4R4D4&linkCode=as2&tag=howtodad-21&linkId=38252d87dee5e2751ed9dcdb3ccdad6e). Useful for wiping your own hands, or other surfaces that might be dirty before or after use.
 
 * **Nappy bags**. They aren't useful just for nappies. Dirty clothes or toys can go in them too.
 
