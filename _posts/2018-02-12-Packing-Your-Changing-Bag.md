@@ -30,8 +30,18 @@ So you've got yourself a nice [changing bag](https://www.amazon.co.uk/gp/product
 
 * [**Mobile changing mat**](https://www.amazon.co.uk/gp/product/B0793SPCBX/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0793SPCBX&linkCode=as2&tag=howtodad-21&linkId=0cd5f3a49b97bb86e73d497251550de8). Changing tables in supermarkets and cafes are often made of hard plastic, so putting this down first will make it much more comfortable.
 
-* **Alcohol hand gel or**[**disinfectant wipes**](https://www.amazon.co.uk/gp/product/B006H4R4D4/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B006H4R4D4&linkCode=as2&tag=howtodad-21&linkId=38252d87dee5e2751ed9dcdb3ccdad6e). Useful for wiping your own hands, or other surfaces that might be dirty before or after use.
+* **Alcohol hand gel or **[**disinfectant wipes**](https://www.amazon.co.uk/gp/product/B006H4R4D4/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B006H4R4D4&linkCode=as2&tag=howtodad-21&linkId=38252d87dee5e2751ed9dcdb3ccdad6e). Useful for wiping your own hands, or other surfaces that might be dirty before or after use.
 
 * **Nappy bags**. They aren't useful just for nappies. Dirty clothes or toys can go in them too.
 
 * **A change of clothes**. This should really be number one. You will need these.
+
+## The Non-Essential-But-Still-Kind-Of-Important
+
+* **A change of t shirt for you**. Useful for when you just can't hide those mystery stains.
+
+* [**Teething toy**](https://www.amazon.co.uk/dp/B079H93LKZ/ref=as_li_ss_tl?aaxitk=anFAKxRnXk7oUmH9sRnq4g&pd_rd_i=B079H93LKZ&pf_rd_p=0e11f8c9-98e1-4a93-bd5e-367420b613ee&hsa_cr_id=7092624010302&sb-ci-n=productDescription&sb-ci-v=Matchstick+Monkey+Dancing+Monkey+Teething+Toy,+Blue&th=1&linkCode=ll1&tag=howtodad-21&linkId=b38973445103a101357aea0d8f3e5c68&language=en_GB). Particularly useful for when you are travelling in the car and they need something to keep them entertained.
+
+* **Supermarket trolley token**. You will not find this on many lists but it is indispensible. Carrying your child around a supermarket with a basket is a nightmare, and a mistake you only make once!
+
+* **Snacks and drinks**. Important for toddlers or older children.
