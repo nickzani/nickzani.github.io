@@ -24,11 +24,19 @@ For this recipe (experiment?) you only need three ingredients:
 The great part of this activity is that it needs very little adult supervision. Even if it goes wildly wrong, the end results are still delicious.
 
 1. Chop or mash up your fruit. Divide this equally into two. One will be the control and one used to test the enzyme
+
+![Mashed up apples](/img/posts/IMG_0252.jpg)
+
 2. To your test sample, add the correct amount of enzyme according to the packaging
 3. Stir it in and go and grab a cup of tea. It will take 10 to 15 minutes for the enzyme to do it's job
 4. Now it is time to compare how the test compared to the control. Add the control into the sieve and leave for a set amount of time. Collect the juice and weigh.
+
+![Unorthodox use of tea strainer](/img/posts/IMG_0253.jpg)
+
 5. Repeat this for the fruit that had the enzyme added, leaving for the same amount of time.
 6. Compare the amount of juice collected and drink!
+
+![Ready to drink](/img/posts/IMG_0254.jpg)
 
 ## What is going on?
 
