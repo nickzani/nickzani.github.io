@@ -38,6 +38,10 @@ The kitchen is the one area of the house where it is tricky to move things aroun
 
 There is no better way of luring a toddler away from a dangerous area of the house than by giving them a cupboard they can pull things out of. We sometimes even hide things in it to give them a suprise when they open it. Put some of their toys in it, hidden away in boxes to give them an activity to keep them busy whilst you make dinner.
 
+## Baby Proof Doors to Stop Trapped Fingers
+
+These [foam door stoppers](https://www.amazon.co.uk/gp/product/B073NPFJRF/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B073NPFJRF&linkCode=as2&tag=howtodad-21&linkId=801e284a182cfcd9985e72075be74b50) go on the outside of the door and stop it closing in the frame. This means there is no way fingers can get trapped in the hinge or against the frame. They also make a great teething toy!
+
 ## Remember that Your Adversary is Constantly Evolving
 
 Baby proofing needs to be an ongoing process. Everything you secure is going to be tested on a daily basis, and eventually things will be broken:
