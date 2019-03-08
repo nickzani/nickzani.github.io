@@ -26,29 +26,17 @@ Put the two blocks a set distance apart, and then place a few of the trimmed she
 
 ![Basic bridge](/img/posts/bridge2.jpg)
 
-## Prioritise Securing Kitchen Cupboards and Drawers
+## Try Different Styles of Bridges
 
-The kitchen is the one area of the house where it is tricky to move things around, since everything is in use so often. There are a few different products you can buy which will help:
+The arch beam looks great and can start to support some of the other blocks
 
-* Drawers can be tricky to secure, but something [like this tape](https://www.amazon.co.uk/gp/product/B073F67H3W/ref=as_li_tl?ie=UTF8&tag=howtodad-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=B073F67H3W&linkId=b94ba8de75e6efefa4d17b3ade60b905) can help
-* Do your best to [cover sharp corners](https://www.amazon.co.uk/gp/product/B075CQ8ZNF/ref=as_li_tl?ie=UTF8&tag=howtodad-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=B075CQ8ZNF&linkId=1ae4865ebb67d8957fa2b1666c366dbd) with plastic guards. Be warned, these did not last long for us - they were quickly chewed off!
-* Put all the detergents and cleaning products in a high up cupboard and make sure it is inaccessible 
-* Have pets? Put their food and water out of reach, or hidden away. Dried cat and dog food is the perfect choking size
+![Basic bridge](/img/posts/bridge3.jpg)
 
-## Make Sure They Have a Cupboard they can Explore
+When we did this we found the winner was this type of bridge, which is kind of like a [truss bridge](https://www.garrettsbridges.com/design/trussdesign/)
 
-There is no better way of luring a toddler away from a dangerous area of the house than by giving them a cupboard they can pull things out of. We sometimes even hide things in it to give them a suprise when they open it. Put some of their toys in it, hidden away in boxes to give them an activity to keep them busy whilst you make dinner.
+![Basic bridge](/img/posts/bridge4.jpg)
 
-## Baby Proof Doors to Stop Trapped Fingers
-
-These [foam door stoppers](https://www.amazon.co.uk/gp/product/B073NPFJRF/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B073NPFJRF&linkCode=as2&tag=howtodad-21&linkId=801e284a182cfcd9985e72075be74b50) go on the outside of the door and stop it closing in the frame. This means there is no way fingers can get trapped in the hinge or against the frame. They also make a great teething toy!
-
-## Remember that Your Adversary is Constantly Evolving
-
-Baby proofing needs to be an ongoing process. Everything you secure is going to be tested on a daily basis, and eventually things will be broken:
-
-![Baby vandalism](/img/posts/entropy.jpg)
-
+See how many blocks you support with your bridges.
 
 
 
