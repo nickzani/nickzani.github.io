@@ -5,7 +5,7 @@ subtitle:   "Using a pectolytic enzyme to clear apple juice. Not as scary as it 
 date:       2018-02-07 17:00:00
 author:     Nick Zani
 header-img: "img/posts/chem.jpg"
-tags: [ Activity, Science, ]
+tags: [ Activity, Science ]
 description: "Dad activities: Fun with enzymes. Clearing home made apple juice with pectinase, a pectolytic enzyme"
 ---
 

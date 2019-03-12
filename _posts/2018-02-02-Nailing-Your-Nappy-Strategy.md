@@ -32,7 +32,7 @@ Before we had our first child we bought this gorgeous changing table. It was on 
 
 ![Changing table](/img/posts/babychanger2.jpg)
 
-I can count on one hand the number of times I changed a nappy on this. When it came to it, carrying a scrying week old baby upstairs the nursery to change a nappy was an extra step in the process I didn't need. In the end I found myself changing almost all the nappies on [a changing mat](https://www.amazon.co.uk/gp/product/B00MC9HH5I/ref=as_li_tl?ie=UTF8&tag=howtodad-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=B00MC9HH5I&linkId=72aae816a737ddaa638661cfcce1311a) in the lounge.
+I can count on one hand the number of times I changed a nappy on this. When it came to it, carrying a crying week old baby upstairs the nursery to change a nappy was an extra step in the process I didn't need. In the end I found myself changing almost all the nappies on [a changing mat](https://www.amazon.co.uk/gp/product/B00MC9HH5I/ref=as_li_tl?ie=UTF8&tag=howtodad-21&camp=1634&creative=6738&linkCode=as2&creativeASIN=B00MC9HH5I&linkId=72aae816a737ddaa638661cfcce1311a) in the lounge.
 
 ## Out and About
 

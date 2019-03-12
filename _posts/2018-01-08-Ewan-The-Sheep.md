@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Ewan the Sheep"
+title:      "Ewan the Sheep: A Review"
 subtitle:   "The second worst signing in history"
 date:       2018-01-08 17:00:00
 author:     Nick Zani
