@@ -20,7 +20,7 @@ Let's put that into perspective: the baby snacks, produced from 100% natural ing
 The price of Kiddylicis Apple Wriggles seems particularly ridiculous. There are only two ingredients!
 
 * Apple Concentrates (Apple Pureé, Apple Juice)
-	- Even packs of [prepackaged apple pureé](https://www.amazon.co.uk/GoGo-squeeZ-Apple-Pouches-Multipack/dp/B075BGF47W/ref=as_li_ss_tl?crid=150TBXXVAGS62&keywords=apple+puree&qid=1552474729&s=gateway&sprefix=apple+pur,aps,214&sr=8-1-spons&psc=1&linkCode=ll1&tag=howtodad-21&linkId=cc9b592db1f8258aa84dd5dc67440620&language=en_GB) costs £6.90 a kilo
+	- Even packs of [prepackaged apple pureé](https://www.amazon.co.uk/GoGo-squeeZ-Apple-Pouches-Multipack/dp/B075BGF47W/ref=as_li_ss_tl?crid=150TBXXVAGS62&keywords=apple+puree&qid=1552474729&s=gateway&sprefix=apple+pur,aps,214&sr=8-1-spons&psc=1&linkCode=ll1&tag=howtodad-21&linkId=cc9b592db1f8258aa84dd5dc67440620&language=en_GB) only costs £6.90 a kilo; roughly 7% of the cost of the Kiddylicis Apple Wriggles
 * Pectin
 	- Commonly used as a thickener in jam
 	- [Readily available](https://www.amazon.co.uk/Special-Ingredients-Marmalades-Chutneys-Fillings/dp/B00KG6V6H4/ref=as_li_ss_tl?keywords=pectin+sachets&qid=1552475383&s=gateway&sr=8-1&linkCode=ll1&tag=howtodad-21&linkId=94826e4fc013e001dad7c687f6e651a4&language=en_GB) online or in supermarkets 
