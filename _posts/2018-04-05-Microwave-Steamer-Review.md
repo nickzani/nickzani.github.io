@@ -36,7 +36,7 @@ When mixing add some water or low salt stock or alternatively butter to loosen i
 
 A while ago I bought a [microwave steamer](https://www.amazon.co.uk/Sistema-Microwave-Medium-Steamer-Removable/dp/B005D6XYGS/ref=as_li_ss_tl?keywords=microwave+steamer&qid=1554977830&s=gateway&sr=8-1-spons&psc=1&linkCode=ll1&tag=howtodad-21&linkId=472ccb0b5f7df6c20850c57cc5619049&language=en_GB) with the aim of speeding up these quick meals.
 
-![Microwave Steamer](/img/posts/steamer2.jpg)
+![Microwave Steamer](/img/posts/steam2.jpg)
 
 I wanted to love it, and I used it a few times. The process is simple - add the vegetables into the basket, put the water in the box and then put in the microwave. 
 
