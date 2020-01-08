@@ -32,23 +32,23 @@ Both types are readily available in most supermarkets. Experiment to find which 
 2. Measure out 50ml of water
 3. Mix the two together roughly with a spoon, and then knead together
 
-![mixed together](/img/posts/pasta3.jpg)
+ ![mixed together](/img/posts/pasta3.jpg)
 
 4. Once kneaded, roll out into a long tube, about the same thickness as a pencil
 
-![rolled out](/img/posts/pasta4.jpg)
+ ![rolled out](/img/posts/pasta4.jpg)
 
 5. Using a sharp knife slice into small 'pillow' shapes
 
-![pillows](/img/posts/pasta5.jpg)
+ ![pillows](/img/posts/pasta5.jpg)
 
 6. The fun part. Push the pillow onto the pasta board and drag down with your finger, creating a mini spiral. This seems quite time consuming but you will quickly get the hang of it.
 
-![pasta](/img/posts/pasta6.jpg)
+ ![pasta](/img/posts/pasta6.jpg)
 
 7. Cook in boiling water until cooked through. Add butter and parmesan and enjoy. 
 
-![pasta](/img/posts/pasta7.jpg)
+ ![pasta](/img/posts/pasta7.jpg)
 
 ## The 1 Hour Version	
 
