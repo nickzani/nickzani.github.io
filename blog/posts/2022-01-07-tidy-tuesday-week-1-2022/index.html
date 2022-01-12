@@ -2107,7 +2107,7 @@ gtag('config', 'G-82CBHYVKKF');
 
 <div class="d-article">
 <h3 id="introduction">Introduction</h3>
-<p>The theme for Tidy Tuesday week 1 was bring your own data. For a while I have had a feeling that our just-turned-two year old twins have been waking up earlier and earlier, so I decided to use my Apple watch step data to try and prove this.</p>
+<p>The theme for Tidy Tuesday week 1 was bring your own data. For a while I have had a feeling that our just-turned-two year old twins have been waking up earlier and earlier, so I decided to use my Apple watch step data to try to prove this.</p>
 <p><img src="https://media3.giphy.com/media/8juzBtKJhYAVi/giphy.gif" /></p>
 <h3 id="data">Data</h3>
 <p>The Apple health data can be exported via the health app as an xml file. By filtering on the step count and Apple watch flag we can extract the date and time using str_match. We will assume that if there were steps in the hours between midnight and 5am it was because of (at least one of) the twins waking up.</p>
@@ -2164,6 +2164,34 @@ gtag('config', 'G-82CBHYVKKF');
 <h3 id="visualisation">Visualisation</h3>
 <p>Now we have the data in tidy form we can pass to ggplot to visualise. This confirms my theory that the twins have been waking up earlier and earlier, with a big change in November, where over half the wakeups were before 4am!</p>
 <div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class='va'>percentages</span> <span class='op'><a href='https://rdrr.io/pkg/magrittr/man/pipe.html'>%&gt;%</a></span>
+  <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/ggplot.html'>ggplot</a></span><span class='op'>(</span><span class='fu'><a href='https://ggplot2.tidyverse.org/reference/aes.html'>aes</a></span><span class='op'>(</span>x <span class='op'>=</span> <span class='fu'><a href='https://rdrr.io/r/stats/reorder.factor.html'>reorder</a></span><span class='op'>(</span><span class='va'>month_name</span>, <span class='va'>month_num</span><span class='op'>)</span>,
+             y <span class='op'>=</span> <span class='va'>percent_wakeups</span>,
+             fill <span class='op'>=</span> <span class='va'>grouping</span><span class='op'>)</span>
+         <span class='op'>)</span> <span class='op'>+</span>
+  <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/geom_bar.html'>geom_col</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span>
+  <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/ggtheme.html'>theme_void</a></span><span class='op'>(</span><span class='op'>)</span> <span class='op'>+</span>
+  <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/scale_continuous.html'>scale_y_continuous</a></span><span class='op'>(</span>labels <span class='op'>=</span> <span class='fu'>scales</span><span class='fu'>::</span><span class='va'><a href='https://scales.r-lib.org/reference/number_format.html'>percent</a></span><span class='op'>)</span> <span class='op'>+</span>
+  <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/labs.html'>labs</a></span><span class='op'>(</span>title <span class='op'>=</span> <span class='st'>"When Are the Twins Waking Up?"</span>, 
+       subtitle <span class='op'>=</span> <span class='st'>"Percentage of Wakeups by Time, by Month\n"</span>,
+       x <span class='op'>=</span> <span class='st'>""</span>,
+       y <span class='op'>=</span> <span class='st'>""</span>,
+       fill <span class='op'>=</span> <span class='st'>"Wakeup Time"</span>,
+       caption <span class='op'>=</span> <span class='st'>"\nNick Zani | @nickzani"</span><span class='op'>)</span> <span class='op'>+</span>
+  <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/scale_brewer.html'>scale_fill_brewer</a></span><span class='op'>(</span>palette <span class='op'>=</span> <span class='fl'>3</span><span class='op'>)</span> <span class='op'>+</span>
+  <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/theme.html'>theme</a></span><span class='op'>(</span>strip.text <span class='op'>=</span> <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/element.html'>element_text</a></span><span class='op'>(</span>size <span class='op'>=</span> <span class='fl'>18</span><span class='op'>)</span>,
+        axis.title <span class='op'>=</span> <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/element.html'>element_text</a></span><span class='op'>(</span>size <span class='op'>=</span> <span class='fl'>14</span><span class='op'>)</span>,
+        axis.text.x <span class='op'>=</span> <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/element.html'>element_text</a></span><span class='op'>(</span>size <span class='op'>=</span> <span class='fl'>14</span><span class='op'>)</span>,
+        axis.text.y <span class='op'>=</span> <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/element.html'>element_text</a></span><span class='op'>(</span>size <span class='op'>=</span> <span class='fl'>18</span><span class='op'>)</span>,
+        plot.title <span class='op'>=</span> <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/element.html'>element_text</a></span><span class='op'>(</span>size <span class='op'>=</span> <span class='fl'>18</span><span class='op'>)</span>,
+        plot.subtitle <span class='op'>=</span> <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/element.html'>element_text</a></span><span class='op'>(</span>size <span class='op'>=</span> <span class='fl'>14</span><span class='op'>)</span>,
+        plot.caption <span class='op'>=</span> <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/element.html'>element_text</a></span><span class='op'>(</span>size <span class='op'>=</span> <span class='fl'>12</span><span class='op'>)</span>,
+        legend.text <span class='op'>=</span> <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/element.html'>element_text</a></span><span class='op'>(</span>size <span class='op'>=</span> <span class='fl'>16</span><span class='op'>)</span>,
+        legend.title <span class='op'>=</span> <span class='fu'><a href='https://ggplot2.tidyverse.org/reference/element.html'>element_text</a></span><span class='op'>(</span>size <span class='op'>=</span> <span class='fl'>18</span><span class='op'>)</span>
+  <span class='op'>)</span>
+</code></pre>
+</div>
 <p><img src="tidy-tuesday-week-1-2022_files/figure-html5/unnamed-chunk-3-1.png" width="960" /></p>
 </div>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
