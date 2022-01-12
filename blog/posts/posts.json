@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-01-12-tidy-tuesday-week-2-2022/",
+    "title": "Tidy Tuesday: Week 2 2022",
+    "description": "Testing Out the geomtextpath Package.",
+    "author": [
+      {
+        "name": "Nick Zani",
+        "url": {}
+      }
+    ],
+    "date": "2022-01-12",
+    "categories": [],
+    "contents": "\r\nIntroduction\r\nI’ve wanted to try out the geomtextpath package for a while so thought I would use this week’s Tidy Tuesday data on bees to give it a go.\r\n\r\nData\r\nNot a huge amount of work required to tidy this up, just a few tweaks to dates and percentages\r\n\r\n\r\nlibrary(tibble)\r\nlibrary(dplyr)\r\nlibrary(stringr)\r\nlibrary(readr)\r\nlibrary(tidyr)\r\nlibrary(janitor)\r\nlibrary(ggplot2)\r\n\r\ncolony <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-01-11/colony.csv')\r\nstressor <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-01-11/stressor.csv')\r\n\r\nstressor_clean <- stressor %>% \r\n  mutate(stress_pct = stress_pct/100) %>%\r\n  mutate(month_num = case_when(months == \"January-March\" ~ 1,\r\n                               months == \"April-June\" ~ 4,\r\n                               months == \"July-September\" ~ 7,\r\n                               months == \"October-December\" ~ 10,)) %>%\r\n  mutate(year_mon = as.Date(paste0(year, \"-\", str_pad(month_num, 2, side = \"left\", pad = 0), \"-01\")),\r\n         formatted_dt = format(year_mon, \"%b-%y\"))\r\n\r\n\r\n\r\nVisualisation\r\nDownload the package from Github:\r\n\r\n\r\nlibrary(remotes)\r\nremotes::install_github(\"AllanCameron/geomtextpath\")\r\n\r\n\r\n\r\nPlot the graph:\r\n\r\n\r\nlibrary(geomtextpath)\r\n\r\nstressor_clean %>%\r\n  filter(state == \"Texas\") %>%\r\n  filter(stressor != \"Unknown\") %>%\r\n  filter(stressor != \"Other\") %>%\r\n  ggplot(aes(x = year_mon, y = stress_pct, colour = stressor)) +\r\n    geom_point(alpha = 0.3,\r\n               size = 2) +\r\n    geom_textsmooth(aes(label = stressor, colour = stressor),\r\n                    method = \"loess\", \r\n                    formula = y ~ x,\r\n                    size = 5, \r\n                    linetype = 3, \r\n                    fontface = 2, \r\n                    linewidth = 1.5)+\r\n  scale_colour_brewer(type = \"qual\", palette = 2) +\r\n  theme_classic() +\r\n  scale_y_continuous(labels = scales::percent_format(accuracy=1)) +\r\n  labs(title = \"Stressor Impact on Texas Bee Colonies\", \r\n       subtitle = \"Unknown and Other Stressors Removed\\n\",\r\n       x = \"\",\r\n       y = \"Percent of Colonies Affected\\n\",\r\n       caption = \"\\nNick Zani | @nickzani\") +\r\n  theme(strip.text = element_text(size = 18),\r\n        axis.title = element_text(size = 14),\r\n        axis.text.x = element_text(size = 14),\r\n        axis.text.y = element_text(size = 18),\r\n        plot.title = element_text(size = 18),\r\n        plot.subtitle = element_text(size = 14),\r\n        plot.caption = element_text(size = 12),\r\n        legend.text = element_text(size = 16),\r\n        legend.title = element_text(size = 18),\r\n        legend.position = \"none\"\r\n  )\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-01-12-tidy-tuesday-week-2-2022/tidy-tuesday-week-2-2022_files/figure-html5/unnamed-chunk-3-1.png",
+    "last_modified": "2022-01-12T11:15:19+00:00",
+    "input_file": "tidy-tuesday-week-2-2022.knit.md"
+  },
+  {
     "path": "posts/2022-01-07-tidy-tuesday-week-1-2022/",
     "title": "Tidy Tuesday: Week 1 2022",
     "description": "Bring your own data: When are the twins waking up?",
